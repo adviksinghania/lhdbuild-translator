@@ -1,7 +1,8 @@
 # LHD:Build-Translator
-A Python based translator in a terminal for different languages using googletrans library
+A Python translator in a terminal for different languages using googletrans library
 
 ## About
+This is a terminal based translator which takes the text to be translated and the language to which you want to translate it as input and prints the translated text as the output.<br>
 Googletrans is a free and unlimited python library that implements Google Translate API. This uses the [Google Translate Ajax API](https://translate.google.com/) to make calls to such methods as detect and translate.<br>
 Compatible with Python 3.6+.
 For details refer to the [API Documentation](https://py-googletrans.readthedocs.io/en/latest).
